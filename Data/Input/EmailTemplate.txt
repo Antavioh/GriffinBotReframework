@@ -1,0 +1,6 @@
+Hello {0},
+
+Out of the initial {1} tickets received from the spreadsheet, {2} Jira tickets were created successfully and {3} Jira tickets failed to create.
+
+Warm Regards,
+{4}
